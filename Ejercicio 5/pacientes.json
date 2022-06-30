@@ -1,0 +1,52 @@
+[
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Rueda",
+            "nombre": "Melisa",
+            "telefono": "(264)4777222",
+            "altura": 1.2,
+            "peso": 70.0
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Lopez",
+            "nombre": "Carlos",
+            "telefono": "(261)4888111",
+            "altura": 1.4,
+            "peso": 70.0
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Perez",
+            "nombre": "Maira",
+            "telefono": "(264)5111222",
+            "altura": 1.6,
+            "peso": 70.0
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Gonzalez",
+            "nombre": "Martin",
+            "telefono": "245623",
+            "altura": 1.8,
+            "peso": 60.0
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Perez",
+            "nombre": "Juan",
+            "telefono": "2645555",
+            "altura": 1.78,
+            "peso": 89.0
+        }
+    }
+]

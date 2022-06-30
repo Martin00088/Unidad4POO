@@ -1,0 +1,29 @@
+[
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Mendoza",
+            "capital": "Mendoza",
+            "CantidadHabitantes": "1738929 ",
+            "CantidadDepPartidos": "18"
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Buenos Aires",
+            "capital": "Ciudad Autonoma de Buenos Aires",
+            "CantidadHabitantes": "17000000",
+            "CantidadDepPartidos": "24"
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "San Juan",
+            "capital": "Capital",
+            "CantidadHabitantes": "700000",
+            "CantidadDepPartidos": "19"
+        }
+    }
+]
